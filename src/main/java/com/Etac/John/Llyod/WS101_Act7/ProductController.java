@@ -1,4 +1,4 @@
-package com.Etac.John.Llyod.WS101_Act7.controller;
+package com.Etac.John.Llyod.WS101_Act7;
 
 import com.Etac.John.Llyod.WS101_Act7.model.Product;
 import com.Etac.John.Llyod.WS101_Act7.service.ProductService;
