@@ -1,52 +1,5 @@
-package com.Etac.John.Llyod.WS101_Act7.model;
+package com.Etac.John.Llyod.WS101_Act7;
 
-public class Product {
-    private Long id;
-    private String name;
-    private Double price;
-
-    // Default constructor
-    public Product() {
-    }
-
-    // All-args constructor
-    public Product(Long id, String name, Double price) {
-        this.id = id;
-        this.name = name;
-        this.price = price;
-    }
-
-    // Getters and setters
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Double getPrice() {
-        return price;
-    }
-
-    public void setPrice(Double price) {
-        this.price = price;
-    }
-
-    @Override
-    public String toString() {
-        return "Product{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", price=" + price +
-                '}';
-    }
-}
+// Placeholder/backup file removed; real Product model is in `com.Etac.John.Llyod.WS101_Act7.model.Product`.
+// This file is intentionally left empty to avoid duplicate class definitions during compilation.
+// Backup placeholder. The real `Product` model lives in `com.Etac.John.Llyod.WS101_Act7.model.Product`.
